@@ -1,5 +1,5 @@
 ## Interface: 10000
-## Title: noxrando
+## Title: nox's mount helper
 ## Author: Charles Winters
 ## Version: .1
 
